@@ -1,0 +1,12 @@
+IKI RIKAVIMO:
+Pavadinimas          Valstybe             Gylis               
+Amazonė              Brazilija            1000                
+Viduržemio jūra      Turkija              900                 
+Atlanto vandenynas   Amerika              1000                
+Indijos vandenynas   Indija               1000                
+PO RIKAVIMO:
+Pavadinimas          Valstybe             Gylis               
+Atlanto vandenynas   Amerika              1000                
+Amazonė              Brazilija            1000                
+Indijos vandenynas   Indija               1000                
+Viduržemio jūra      Turkija              900                 

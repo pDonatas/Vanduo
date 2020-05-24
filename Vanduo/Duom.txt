@@ -1,0 +1,6 @@
+﻿Amazonė;Brazilija;1000
+Nemunas;Lietuva;200
+Baltijos Jūra;Lietuva;500
+Viduržemio jūra;Turkija;900
+Atlanto vandenynas;Amerika;1000
+Indijos vandenynas;Indija;1000

@@ -1,0 +1,8 @@
+C:\Users\donat\Desktop\KTU\OP\K2\Vanduo\Vanduo\bin\Debug\Vanduo.exe.config
+C:\Users\donat\Desktop\KTU\OP\K2\Vanduo\Vanduo\bin\Debug\Vanduo.exe
+C:\Users\donat\Desktop\KTU\OP\K2\Vanduo\Vanduo\bin\Debug\Vanduo.pdb
+C:\Users\donat\Desktop\KTU\OP\K2\Vanduo\Vanduo\obj\Debug\Vanduo.csprojAssemblyReference.cache
+C:\Users\donat\Desktop\KTU\OP\K2\Vanduo\Vanduo\obj\Debug\Vanduo.csproj.CoreCompileInputs.cache
+C:\Users\donat\Desktop\KTU\OP\K2\Vanduo\Vanduo\obj\Debug\Vanduo.exe
+C:\Users\donat\Desktop\KTU\OP\K2\Vanduo\Vanduo\obj\Debug\Vanduo.pdb
+C:\Users\donat\Desktop\KTU\OP\K2\Vanduo\Vanduo\bin\Debug\Duom.txt
